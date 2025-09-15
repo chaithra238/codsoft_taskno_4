@@ -1,5 +1,5 @@
 # codsoft_taskno_4
-Spam SMS Detection
+Spam SMS Detection<br>
 This project focuses on building a Machine Learning model to classify messages as spam and ham messages.<br>
 Workflow<br>
 1.Collected a predefined SMS dataset containing spam and ham messages.<br>
